@@ -106,10 +106,9 @@
                         <div  class="row   web" style="margin-top: 15px; margin-left: 14px;">
                                     
                                             
-                            <a style="margin:15px;  padding: 15px;" class="my-btn " href="https://wa.me/917758961093"> Download now</a>
+                            <a style="margin:2%;  padding: 5%;" class="my-btn " href="https://wa.me/917758961093"> Download now</a>
                            
-                        <a style="margin:15px; padding: 15px;" class="my-btn" href="assets/img/Mentorship Program.pdf" download  >Learn
-                            More</a>
+                        <a style="margin:2%; padding: 5%;" class="my-btn" href="assets/img/Mentorship Program.pdf" download  >Learn More</a>
 
                 </div>
                     </div>
@@ -1137,7 +1136,7 @@
                             <div class="social-icon">
                                 <a class="text-white"  href="https://www.instagram.com/tradrofficial/"><i class="fab fa-instagram text-white"></i> TRADR</a>
                                 <br>
-                                <a class="text-white"  href="#"><i class="fa fa-envelope-square  text-white"></i>tradrofficial@gmail.com </a>
+                                <a class="text-white"  href="#"><i class="fa fa-envelope-square  text-white"></i> tradrofficial@gmail.com </a>
                             </div>
                            
                     </div>
@@ -1169,6 +1168,7 @@
                         <ul>
                             <li><a href="https://play.google.com/store/apps/details?id=com.ensivo.tradr&hl=en&gl=US"><i class="fas fa-chevron-right"></i> For Android</a></li>
                             <li><a href="https://apps.apple.com/in/app/tradr-stock-education-app/id1532006005"><i class="fas fa-chevron-right"></i>For IOS </a></li>
+                        </ul>
 
                     </div>
                 </div>
