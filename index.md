@@ -103,12 +103,12 @@
 
                         <br>
                         
-                        <div  class="row   web" style="margin-top: 15px; margin-left: 14px;">
+                        <div  class="row   web" style="margin-top: 15px; margin-left: 1px;">
                                     
                                             
-                            <a style="margin:2%;  padding: 5%;" class="my-btn " href="https://wa.me/917758961093"> Download now</a>
+                            <!-- <a style="margin:2%;  padding: 5%;" class="my-btn " href="https://wa.me/917758961093"> Download now</a> -->
                            
-                        <a style="margin:2%; padding: 5%;" class="my-btn" href="assets/img/Mentorship Program.pdf" download  >Learn More</a>
+                        <a  class="my-btn" href="assets/img/Mentorship Program.pdf" download  >Learn More</a>
 
                 </div>
                     </div>
@@ -1086,10 +1086,10 @@
                         <!-- <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor tempor
                             incididunt ut labore dolore magna.</p> -->
                         <div class="btn-wrapper">
-                            <a href="https://play.google.com/store/apps/details?id=com.ensivo.tradr&hl=en&gl=US"
+                            <a href="https://apps.apple.com/in/app/tradr-stock-education-app/id1532006005"
                                 class="boxed-btn btn-rounded gd-bg-1"><i class="flaticon-apple-1"></i> App
                                 Store</a>
-                            <a href="https://apps.apple.com/in/app/tradr-stock-education-app/id1532006005"
+                            <a href="https://play.google.com/store/apps/details?id=com.ensivo.tradr&hl=en&gl=US"
                                 class="boxed-btn btn-rounded gd-bg-2"><i class="flaticon-android-logo"></i> Play
                                 Store</a>
                             <!-- <a href="#" class="boxed-btn btn-rounded gd-bg-3"><i class="flaticon-windows"></i>
@@ -1156,9 +1156,9 @@
                     <div class="footer-widget nav_menus_widget">
                         <h4 class="widget-title">Need Help?</h4>
                         <ul>
-                            <li><a href="#download-app"><i class="fas fa-chevron-right"></i>F.A.Q</a></li>
+                            <li><a href="blog-details-dark.html"><i class="fas fa-chevron-right"></i>F.A.Q</a></li>
                             <li><a href="#contact"><i class="fas fa-chevron-right"></i> Contact</a></li>
-
+                            <li><a href="Privacy-policy.html"><i class="fas fa-chevron-right"></i> Privacy Policy</a></li>
                         </ul>
                     </div>
                 </div>
@@ -1184,11 +1184,11 @@
                         <!-- copyright inner wrapper -->
                         <div class="left-content-area">
                             <!-- left content area -->
-                            &copy; Copyrights 2019 All rights reserved.
+                            &copy; Copyrights 2021 All rights reserved.
                         </div><!-- //. left content aera -->
                         <div class="right-content-area">
                             <!-- right content area -->
-                            Designed by <strong>Love</strong>
+                            Designed by <strong>TRADR AI</strong>
                         </div><!-- //. right content area -->
                     </div><!-- //.copyright inner wrapper -->
                 </div>

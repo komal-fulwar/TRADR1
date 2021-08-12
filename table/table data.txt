@@ -1,0 +1,1638 @@
+  <tr >
+                                       
+                                        <td >05 January 2021</td>
+                                        <td >5137</td>
+                                        <td >5080</td>
+                                        <td >-250</td>
+                                        <td >-57</td>
+                                        <td>14,250 </td>
+                                       
+                                       </tr>
+                                           <tr >
+                                    
+                                    <td class="xl117" align="right">01-Feb-21</td>
+                                    <td align="right">4735</td>
+                                    <td align="right">4835</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">02-Feb-21</td>
+                                    <td align="right">5240</td>
+                                    <td align="right">5140</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">03-Feb-21</td>
+                                    <td align="right">5205</td>
+                                    <td align="right">5245</td>
+                                    <td align="right">250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">04-Feb-21</td>
+                                    <td align="right">5355</td>
+                                    <td align="right">5455</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">05-Feb-21</td>
+                                    <td align="right">5553</td>
+                                    <td align="right">5593</td>
+                                    <td align="right">250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">08-Feb-21</td>
+                                    <td align="right">5610</td>
+                                    <td align="right">5510</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">09-Feb-21</td>
+                                    <td align="right">5432</td>
+                                    <td align="right">5390</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-42</td>
+                                    <td class="xl92">10,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">10-Feb-21</td>
+                                    <td align="right">5426</td>
+                                    <td align="right">5458</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">32</td>
+                                    <td class="xl92">-8,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    <td align="right">5458</td>
+                                    <td align="right">5418</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">11-Feb-21</td>
+                                    <td align="right">5555</td>
+                                    <td align="right">5515</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    <td align="right">5550</td>
+                                    <td align="right">5555</td>
+                                    <td align="right">250</td>
+                                    <td align="right">5</td>
+                                    <td class="xl92">1,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">12-Feb-21</td>
+                                    <td align="right">5585</td>
+                                    <td align="right">5545</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">15-Feb-21</td>
+                                    <td align="right">5660</td>
+                                    <td align="right">5760</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">16-Feb-21</td>
+                                    <td align="right">5770</td>
+                                    <td align="right">5730</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    <td align="right">5731</td>
+                                    <td align="right">5735</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">4</td>
+                                    <td class="xl92">-1,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">17-Feb-21</td>
+                                    <td align="right">5726</td>
+                                    <td align="right">5685</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-41</td>
+                                    <td class="xl92">10,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">18-Feb-21</td>
+                                    <td align="right">5625</td>
+                                    <td align="right">5525</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">19-Feb-21</td>
+                                    <td align="right">5557</td>
+                                    <td align="right">5555</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-2</td>
+                                    <td class="xl92">-500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    <td align="right">5555</td>
+                                    <td align="right">5455</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">22-Feb-21</td>
+                                    <td align="right">5432</td>
+                                    <td align="right">5392</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">23-Feb-21</td>
+                                    <td align="right">5380</td>
+                                    <td align="right">5420</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">24-Feb-21</td>
+                                    <td align="right">5534</td>
+                                    <td align="right">5500</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-34</td>
+                                    <td class="xl92">-8,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    <td align="right">5500</td>
+                                    <td align="right">5540</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">26-Feb-21</td>
+                                    <td align="right">5366</td>
+                                    <td align="right">5266</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92">1,74,000 </td>
+                                    
+                                    <td class="xl92"></td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr style="height:15.0pt" height="20">
+                                    <td style="height:15.0pt" height="20"></td>
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                    <td class="xl70">&nbsp;</td>
+                                   </tr>
+                                   <tr style="height:15.0pt" height="20">
+                                    <td style="height:15.0pt" height="20"></td>
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl111">Date<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">Entry</td>
+                                    <td class="xl69" style="border-left:none">Exit</td>
+                                    <td class="xl69" style="border-left:none">Direction</td>
+                                    <td class="xl69" style="border-left:none">Points</td>
+                                    <td class="xl93" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>P&amp;L<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td></td>
+                                    <td class="xl70">&nbsp;</td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">01-Mar-21</td>
+                                    <td align="right">5290</td>
+                                    <td align="right">5247</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-43</td>
+                                    <td class="xl92">10,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    <td align="right">5247</td>
+                                    <td align="right">5255</td>
+                                    <td align="right">250</td>
+                                    <td align="right">8</td>
+                                    <td class="xl92">2,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">02-Mar-21</td>
+                                    <td align="right">5353</td>
+                                    <td align="right">5284</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-69</td>
+                                    <td class="xl92">17,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">03-Mar-21</td>
+                                    <td align="right">5398</td>
+                                    <td align="right">5498</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">04-Mar-21</td>
+                                    <td align="right">5450</td>
+                                    <td align="right">5550</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">05-Mar-21</td>
+                                    <td align="right">5515</td>
+                                    <td align="right">5475</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5436</td>
+                                    <td align="right">5476</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">08-Mar-21</td>
+                                    <td align="right">5358</td>
+                                    <td align="right">5330</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-28</td>
+                                    <td class="xl92">7,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">09-Mar-21</td>
+                                    <td align="right">5376</td>
+                                    <td align="right">5375</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-1</td>
+                                    <td class="xl92">250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5375</td>
+                                    <td align="right">5410</td>
+                                    <td align="right">250</td>
+                                    <td align="right">35</td>
+                                    <td class="xl92">8,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">10-Mar-21</td>
+                                    <td align="right">5525</td>
+                                    <td align="right">5495</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-30</td>
+                                    <td class="xl92">-7,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5495</td>
+                                    <td align="right">5517</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">22</td>
+                                    <td class="xl92">-5,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">12-Mar-21</td>
+                                    <td align="right">5620</td>
+                                    <td align="right">5611</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-9</td>
+                                    <td class="xl92">-2,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5611</td>
+                                    <td align="right">5565</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-46</td>
+                                    <td class="xl92">11,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">15-Mar-21</td>
+                                    <td align="right">5400</td>
+                                    <td align="right">5388</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-12</td>
+                                    <td class="xl92">3,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5388</td>
+                                    <td align="right">5420</td>
+                                    <td align="right">250</td>
+                                    <td align="right">32</td>
+                                    <td class="xl92">8,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">16-Mar-21</td>
+                                    <td align="right">5440</td>
+                                    <td align="right">5470</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">30</td>
+                                    <td class="xl92">-7,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">17-Mar-21</td>
+                                    <td align="right">5404</td>
+                                    <td align="right">5365</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-39</td>
+                                    <td class="xl92">9,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">18-Mar-21</td>
+                                    <td align="right">5432</td>
+                                    <td align="right">5332</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">19-Mar-21</td>
+                                    <td align="right">5274</td>
+                                    <td align="right">5234</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5232</td>
+                                    <td align="right">5272</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">22-Mar-21</td>
+                                    <td align="right">5385</td>
+                                    <td align="right">5425</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">23-Mar-21</td>
+                                    <td align="right">5370</td>
+                                    <td align="right">5410</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5375</td>
+                                    <td align="right">5381</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">6</td>
+                                    <td class="xl92">-1,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">24-Mar-21</td>
+                                    <td align="right">5305</td>
+                                    <td align="right">5305</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5305</td>
+                                    <td align="right">5275</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-30</td>
+                                    <td class="xl92">-7,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">25-Mar-21</td>
+                                    <td align="right">5140</td>
+                                    <td align="right">5180</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">26-Mar-21</td>
+                                    <td align="right">5210</td>
+                                    <td align="right">5210</td>
+                                    <td align="right">250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5195</td>
+                                    <td align="right">5190</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-5</td>
+                                    <td class="xl92">1,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">30-Mar-21</td>
+                                    <td align="right">5195</td>
+                                    <td align="right">5195</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5200</td>
+                                    <td align="right">5210</td>
+                                    <td align="right">250</td>
+                                    <td align="right">10</td>
+                                    <td class="xl92">2,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">31-Mar-21</td>
+                                    <td align="right">5155</td>
+                                    <td align="right">5160</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">5</td>
+                                    <td class="xl92">-1,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92">54,000 </td>
+                                    
+                                    <td class="xl92"></td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr style="height:15.0pt" height="20">
+                                    <td style="height:15.0pt" height="20"></td>
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl111">Date<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">Entry</td>
+                                    <td class="xl69" style="border-left:none">Exit</td>
+                                    <td class="xl69" style="border-left:none">Direction</td>
+                                    <td class="xl69" style="border-left:none">Points</td>
+                                    <td class="xl93" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>P&amp;L<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td></td>
+                                    <td class="xl70">&nbsp;</td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">01-Apr-21</td>
+                                    <td align="right">5222</td>
+                                    <td align="right">5260</td>
+                                    <td align="right">250</td>
+                                    <td align="right">38</td>
+                                    <td class="xl92">9,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">05-Apr-21</td>
+                                    <td align="right">5025</td>
+                                    <td align="right">4925</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">07-Apr-21</td>
+                                    <td align="right">5026</td>
+                                    <td align="right">5070</td>
+                                    <td align="right">250</td>
+                                    <td align="right">44</td>
+                                    <td class="xl92">11,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">08-Apr-21</td>
+                                    <td align="right">5052</td>
+                                    <td align="right">5015</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-37</td>
+                                    <td class="xl92">9,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">09-Apr-21</td>
+                                    <td align="right">4916</td>
+                                    <td align="right">4870</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-46</td>
+                                    <td class="xl92">11,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">12-Apr-21</td>
+                                    <td align="right">4550</td>
+                                    <td align="right">4450</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">13-Apr-21</td>
+                                    <td align="right">4650</td>
+                                    <td align="right">4610</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">4630</td>
+                                    <td align="right">4730</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">15-Apr-21</td>
+                                    <td align="right">4651</td>
+                                    <td align="right">4611</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">4642</td>
+                                    <td align="right">4662</td>
+                                    <td align="right">250</td>
+                                    <td align="right">20</td>
+                                    <td class="xl92">5,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">16-Apr-21</td>
+                                    <td align="right">4670</td>
+                                    <td align="right">4640</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-30</td>
+                                    <td class="xl92">-7,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">4640</td>
+                                    <td align="right">4640</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">19-Apr-21</td>
+                                    <td align="right">4462</td>
+                                    <td align="right">4462</td>
+                                    <td align="right">250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">20-Apr-21</td>
+                                    <td align="right">4690</td>
+                                    <td align="right">4650</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">4642</td>
+                                    <td align="right">4580</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-62</td>
+                                    <td class="xl92">15,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">22-Apr-21</td>
+                                    <td align="right">4606</td>
+                                    <td align="right">4690</td>
+                                    <td align="right">250</td>
+                                    <td align="right">84</td>
+                                    <td class="xl92">21,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">23-Apr-21</td>
+                                    <td align="right">4658</td>
+                                    <td align="right">4758</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">26-Apr-21</td>
+                                    <td align="right">4814</td>
+                                    <td align="right">4774</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">4774</td>
+                                    <td align="right">4731</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-43</td>
+                                    <td class="xl92">10,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">27-Apr-21</td>
+                                    <td align="right">4814</td>
+                                    <td align="right">4825</td>
+                                    <td align="right">250</td>
+                                    <td align="right">11</td>
+                                    <td class="xl92">2,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">28-Apr-21</td>
+                                    <td align="right">5054</td>
+                                    <td align="right">5154</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">29-Apr-21</td>
+                                    <td align="right">5386</td>
+                                    <td align="right">5426</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5457</td>
+                                    <td align="right">5484</td>
+                                    <td align="right">250</td>
+                                    <td align="right">27</td>
+                                    <td class="xl92">6,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl119" align="right">30-Apr</td>
+                                    <td align="right">5406</td>
+                                    <td align="right">5443</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">37</td>
+                                    <td class="xl92">-9,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5446</td>
+                                    <td align="right">5486</td>
+                                    <td align="right">250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92">1,91,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr style="height:15.0pt" height="20">
+                                    <td colspan="6" style="height:15.0pt;mso-ignore:colspan" height="20"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl111">Date<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">Entry</td>
+                                    <td class="xl69" style="border-left:none">Exit</td>
+                                    <td class="xl69" style="border-left:none">Direction</td>
+                                    <td class="xl69" style="border-left:none">Points</td>
+                                    <td class="xl93" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>P&amp;L<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td></td>
+                                    <td class="xl70">&nbsp;</td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">03-May-21</td>
+                                    <td align="right">5471</td>
+                                    <td align="right">5537</td>
+                                    <td align="right">250</td>
+                                    <td align="right">66</td>
+                                    <td class="xl92">16,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">04-May-21</td>
+                                    <td align="right">5630</td>
+                                    <td align="right">5730</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">05-May-21</td>
+                                    <td align="right">5560</td>
+                                    <td align="right">5560</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5515</td>
+                                    <td align="right">5515</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">06-May-21</td>
+                                    <td align="right">5564</td>
+                                    <td align="right">5524</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5530</td>
+                                    <td align="right">5500</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-30</td>
+                                    <td class="xl92">-7,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">07-May-21</td>
+                                    <td align="right">5545</td>
+                                    <td align="right">5505</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">10-May-21</td>
+                                    <td align="right">5480</td>
+                                    <td align="right">5505</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">25</td>
+                                    <td class="xl92">-6,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5505</td>
+                                    <td align="right">5488</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-17</td>
+                                    <td class="xl92">-4,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">11-May-21</td>
+                                    <td align="right">5408</td>
+                                    <td align="right">5448</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5414</td>
+                                    <td align="right">5411</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-3</td>
+                                    <td class="xl92">750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">12-May-21</td>
+                                    <td align="right">5391</td>
+                                    <td align="right">5360</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-31</td>
+                                    <td class="xl92">7,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">14-May-21</td>
+                                    <td align="right">5345</td>
+                                    <td align="right">5310</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-35</td>
+                                    <td class="xl92">-8,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5310</td>
+                                    <td align="right">5310</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">17-May-21</td>
+                                    <td align="right">5451</td>
+                                    <td align="right">5451</td>
+                                    <td align="right">250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5421</td>
+                                    <td align="right">5421</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">18-May-21</td>
+                                    <td align="right">5640</td>
+                                    <td align="right">5640</td>
+                                    <td align="right">250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5622</td>
+                                    <td align="right">5662</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">21-May-21</td>
+                                    <td align="right">5655</td>
+                                    <td align="right">5626</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-29</td>
+                                    <td class="xl92">7,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">25-May-21</td>
+                                    <td align="right">5595</td>
+                                    <td align="right">5609</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">14</td>
+                                    <td class="xl92">-3,500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">26-May-21</td>
+                                    <td align="right">5593</td>
+                                    <td align="right">5632</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">39</td>
+                                    <td class="xl92">-9,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5632</td>
+                                    <td align="right">5732</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">28-May-21</td>
+                                    <td align="right">5686</td>
+                                    <td align="right">5627</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-59</td>
+                                    <td class="xl92">14,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">31-May-21</td>
+                                    <td align="right">5600</td>
+                                    <td align="right">5600</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92">57,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr style="height:15.0pt" height="20">
+                                    <td colspan="6" style="height:15.0pt;mso-ignore:colspan" height="20"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl111">Date<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">Entry</td>
+                                    <td class="xl69" style="border-left:none">Exit</td>
+                                    <td class="xl69" style="border-left:none">Direction</td>
+                                    <td class="xl69" style="border-left:none">Points</td>
+                                    <td class="xl93" style="border-left:none"><span style="mso-spacerun:yes">&nbsp;</span>P&amp;L<span style="mso-spacerun:yes">&nbsp;</span></td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td></td>
+                                    <td class="xl70">&nbsp;</td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">01-Jun-21</td>
+                                    <td align="right">5754</td>
+                                    <td align="right">5754</td>
+                                    <td align="right">250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">02-Jun-21</td>
+                                    <td align="right">5763</td>
+                                    <td align="right">5803</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">5772</td>
+                                    <td align="right">5812</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">03-Jun-21</td>
+                                    <td align="right">5844</td>
+                                    <td align="right">5913</td>
+                                    <td align="right">250</td>
+                                    <td align="right">69</td>
+                                    <td class="xl92">17,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">04-Jun-21</td>
+                                    <td align="right">5956</td>
+                                    <td align="right">5995</td>
+                                    <td align="right">250</td>
+                                    <td align="right">39</td>
+                                    <td class="xl92">9,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">07-Jun-21</td>
+                                    <td align="right">5713</td>
+                                    <td align="right">5728</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">15</td>
+                                    <td class="xl92">-3,750 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">09-Jun-21</td>
+                                    <td align="right">5740</td>
+                                    <td align="right">5640</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">10-Jun-21</td>
+                                    <td align="right">5785</td>
+                                    <td align="right">5885</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">11-Jun-21</td>
+                                    <td align="right">6120</td>
+                                    <td align="right">6220</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">14-Jun-21</td>
+                                    <td align="right">6075</td>
+                                    <td align="right">6175</td>
+                                    <td align="right">250</td>
+                                    <td align="right">100</td>
+                                    <td class="xl92">25,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">16-Jun-21</td>
+                                    <td align="right">6104</td>
+                                    <td align="right">6104</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">6120</td>
+                                    <td align="right">6080</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">17-Jun-21</td>
+                                    <td align="right">6055</td>
+                                    <td align="right">6095</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">6097</td>
+                                    <td align="right">6057</td>
+                                    <td align="right">250</td>
+                                    <td align="right">-40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">18-Jun-21</td>
+                                    <td align="right">5995</td>
+                                    <td align="right">6035</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="2" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">6005</td>
+                                    <td align="right">6045</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">40</td>
+                                    <td class="xl92">-10,000 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">21-Jun-21</td>
+                                    <td align="right">6120</td>
+                                    <td align="right">6122</td>
+                                    <td align="right">250</td>
+                                    <td align="right">2</td>
+                                    <td class="xl92">500 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117" align="right">22-Jun-21</td>
+                                    <td align="right">6098</td>
+                                    <td align="right">6029</td>
+                                    <td align="right">-250</td>
+                                    <td align="right">-69</td>
+                                    <td class="xl92">17,250 </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="5" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="5" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="5" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td align="right">0</td>
+                                    <td class="xl92">-</td>
+                                    
+                                   </tr>
+                                   <tr style="height:417.6pt;mso-xlrowspan:29" height="551">
+                                    <td colspan="12" style="height:417.6pt;mso-ignore:colspan" height="551"></td>
+                                   </tr>
+                                   <tr style="height:15.0pt" height="20">
+                                    <td colspan="6" style="height:15.0pt;mso-ignore:colspan" height="20"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl111">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl93" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td class="xl69" style="border-left:none">&nbsp;</td>
+                                    <td></td>
+                                    <td class="xl70">&nbsp;</td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td colspan="6" style="height:14.4pt;mso-ignore:colspan" height="19"></td>
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    
+                                    <td class="xl92"></td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td class="xl117"></td>
+                                    <td colspan="10" style="mso-ignore:colspan"></td>
+                                   </tr>

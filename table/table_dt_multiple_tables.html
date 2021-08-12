@@ -1,0 +1,522 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, shrink-to-fit=no">
+    <title>CORK Admin Template - Multiple DataTables</title>
+    <link rel="icon" type="image/x-icon" href="assets/img/favicon.ico" />
+    <!-- BEGIN GLOBAL MANDATORY STYLES -->
+    <link href="https://fonts.googleapis.com/css?family=Quicksand:400,500,600,700&display=swap" rel="stylesheet">
+    <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+    <link href="assets/css/plugins.css" rel="stylesheet" type="text/css" />
+    <!-- END GLOBAL MANDATORY STYLES -->
+    <!-- stylesheet -->
+
+    <!-- stylesheet -->
+    <link rel="stylesheet" href="assets/css/style.css">
+    <!-- responsive -->
+    <link rel="stylesheet" href="assets/css/responsive.css">
+
+    <!-- BEGIN PAGE LEVEL STYLES -->
+    <link rel="stylesheet" type="text/css" href="plugins/table/datatable/datatables.css">
+    <link rel="stylesheet" type="text/css" href="plugins/table/datatable/dt-global_style.css">
+    <link rel="stylesheet" type="text/css" href="plugins/table/datatable/custom_dt_multiple_tables.css">
+    <!-- END PAGE LEVEL STYLES -->
+</head>
+
+<body>
+    <nav class=" navbar navbar-area navbar-expand-lg nav-absolute white nav-style-01"
+        style=" position: fixed;  background-color:#030346; ">
+        <div class="container nav-container">
+            <div class="responsive-mobile-menu">
+                <div class="logo-wrapper">
+                    <a href="../index.html" class="logo">
+                        <img src="assets/img/logo.gif" alt="logo">
+                    </a>
+                </div>
+                <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#appside_main_menu"
+                    aria-expanded="false" aria-label="Toggle navigation">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+            </div>
+            <div class="collapse navbar-collapse" id="appside_main_menu">
+                <ul class="navbar-nav">
+                    <li class="current-menu-item">
+                        <a href="../index.html">Home</a>
+                    </li>
+                    <li><a href="../index.html">About</a></li>
+                    <li><a href="../index.html">Articles</a></li>
+                    <li><a href="../index.html">F.A.Q </a></li>
+
+                    <li><a href="../index.html">Contact</a></li>
+                </ul>
+            </div>
+            <div class="nav-right-content">
+                <ul>
+                    <li class="button-wrapper">
+                        <a href="../index.html" class="boxed-btn btn-rounded">Download</a>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!--  BEGIN NAVBAR  -->
+
+    <!--  END NAVBAR  -->
+
+
+
+
+    <!--  BEGIN TOPBAR  -->
+
+    <!--  END TOPBAR  -->
+
+    <!--  BEGIN CONTENT AREA  -->
+    <div id="content" class="main-content" >
+        <div class="layout-px-spacing">
+
+            <div class="row layout-top-spacing" id="cancel-row">
+
+                <div class="col-xl-12 col-lg-12 col-sm-12   layout-spacing" style="margin-top: 150px;">
+                    <div class="widget-content widget-content-area br-6">
+                        <div class="table-responsive mb-4 mt-4">
+                            <table class="multi-table table table-hover" style="width:100%">
+                                <thead>
+                                    <tr>
+                                        <th style="color: #4d09d7;">DATE</th>
+                                        <th style="color: #4d09d7;">ENTRY</th>
+                                        <th style="color: #4d09d7;">EXIT</th>
+                                        <th class="web" style="color: #4d09d7;">DIRECTION</th>
+                                        <th class="web" style="color: #4d09d7;">POINTS</th>
+                                        <th style="color: #4d09d7;" class="text-center">P&L(250 Qty)</th>
+
+                                    </tr>
+                                </thead>
+                                <tbody>	 	
+
+                                   
+                                   
+                                      
+                                 
+                                   <tr >
+                                   
+                                    <td >04 January 2021</td>
+                                    <td >5257</td>
+                                    <td >5197</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-60</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 15,000 
+                                       
+                                    </button> </td>
+                                    
+                                 
+                                   </tr>
+                                   <tr >
+                                    <td >05 January 2021</td>
+                                    <td >5137</td>
+                                    <td class="web" >5080</td>
+                                    <td class="web" >-250</td>
+                                    <td >-57</td>
+                                    
+                                    
+                                    
+                                    <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 14,250 
+                                       
+                                    </button> </td>
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >06-Jan-21</td>
+                                    <td >5087</td>
+                                    <td >5090</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >3</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary"> ₹ -750 
+                                       
+                                    </button> </td>
+                                    
+                                   </tr>
+                                     <tr >
+                                    
+                                    <td >06-Jan-21</td>
+                                    <td >5090</td>
+                                    <td >5050</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >-40</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary"> ₹ -10,000 
+                                      
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >07-Jan-21</td>
+                                    <td >5028</td>
+                                    <td >5069</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >41</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">  ₹ -10,250 
+                                     
+                                    </button> </td>
+                                    
+                                   </tr>
+                                     
+                                  
+                                  
+                                  
+                                   <tr >
+                                    
+                                    <td >07-Jan-21</td>
+                                    <td >5074</td>
+                                    <td >5075</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >1</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">   ₹ 250 
+                                       
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >08-Jan-21</td>
+                                    <td >5080</td>
+                                    <td >5095</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >15</td>
+                                   <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 3,750 
+                                  
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >11-Jan-21</td>
+                                    <td >5026</td>
+                                    <td >4975</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-51</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">  ₹ 12,750 
+                                       
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >12-Jan-21</td>
+                                    <td >5020</td>
+                                    <td >5060</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >40</td>
+                                     <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 10,000 
+                                      
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >13-Jan-21</td>
+                                    <td >5003</td>
+                                    <td >4903</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-100</td>
+                                     <td class="text-center"> <button class="btn btn-outline-primary">  ₹ 25,000 
+                                      
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >14-Jan-21</td>
+                                    <td >4940</td>
+                                    <td >4910</td>
+                                    <td class="web" >250</td>
+                                    <td  class="web">-30</td>
+                                     <td class="text-center"> <button class="btn btn-outline-primary">  ₹ -7,500 
+                                    
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >14-Jan-21</td>
+                                    <td >4910</td>
+                                    <td >4880</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-30</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">    ₹ 7,500 
+                                     
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >15-Jan-21</td>
+                                    <td >4880</td>
+                                    <td >4880</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >0</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">  ₹   -   
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >18-Jan-21</td>
+                                    <td >4744</td>
+                                    <td >4729</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-15</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 3,750 
+                                    
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >18-Jan-21</td>
+                                    <td >4729</td>
+                                    <td >4729</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >0</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">  ₹   -   
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >19-Jan-21</td>
+                                    <td >4822</td>
+                                    <td >4922</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >100</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 25,000 
+                                        
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >20-Jan-21</td>
+                                    <td >4964</td>
+                                    <td >5004</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >40</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 10,000 
+                                         
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >21-Jan-21</td>
+                                    <td >5105</td>
+                                    <td >5145</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >40</td>
+                                     <td class="text-center"> <button class="btn btn-outline-primary">₹ -10,000 
+                                       
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >21-Jan-21</td>
+                                    <td >5160</td>
+                                    <td >5171</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >11</td>
+                                   <td class="text-center"> <button class="btn btn-outline-primary"> ₹ 2,750 
+                                     
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >22-Jan-21</td>
+                                    <td >5070</td>
+                                    <td >4970</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-100</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">₹ 25,000 
+                                       
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >25-Jan-21</td>
+                                    <td >5017</td>
+                                    <td >4917</td>
+                                    <td class="web" >-250</td>
+                                    <td  class="web">-100</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">₹25,000 
+                                         
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >27-Jan-21</td>
+                                    <td >4830</td>
+                                    <td >4870</td>
+                                    <td  class="web">-250</td>
+                                    <td class="web" >40</td>
+                                    <td class="text-center"> <button class="btn btn-outline-primary">₹-10,000 
+                                          
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    <td >27-Jan-21</td> 
+                                    <td >4845</td>
+                                    <td >4836</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-9</td>
+                                     <td class="text-center"> <button class="btn btn-outline-primary">₹2,250 </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >28-Jan-21</td>
+                                    <td >4894</td>
+                                    <td >4857</td>
+                                    <td class="web" >250</td>
+                                    <td class="web" >-37</td>
+                                  <td class="text-center"> <button class="btn btn-outline-primary">₹-9,250</button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                      
+                                    <td >28 Jan 21</td>
+                                    <td >4857</td>
+                                    <td >4757</td>
+                                    <td class="web"  >-250</td>
+                                    <td class="web" >-100</td>
+                                   <td class="text-center"> <button class="btn btn-outline-primary">₹25,000 
+                                    
+                                    </button> </td>
+                                    
+                                   </tr>
+                                   <tr >
+                                    
+                                    <td >29 Jan 21</td>
+                                    <td >4900</td>
+                                    <td >4864</td>
+                                    <td class="web" >-250</td>
+                                    <td class="web" >-36</td>
+                                   <td class="text-center"> <button class="btn btn-outline-primary">₹9,000  
+                                    </button> </td>
+                                    
+                                   </tr>
+                                </tbody>
+                                <!-- <tbody> 
+                                  
+                                
+                                 
+                                   <tr >
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    <td >1,58,500 </td>
+                                    
+                                    <td class="xl118"></td>
+                                   </tr>
+                                  
+                                  
+                               
+                                
+                                  </tbody>  -->
+                                <tfoot>
+                                    <tr>
+                                        <th>DATE</th>
+                                        <th>ENTRY</th>
+                                        <th>EXIT</th>
+                                        <th class="web">DIRECTION</th>
+                                        <th class="web">POINTS</th>
+                                        <th class="text-center">P&L(250 Qty)</th>
+
+                                    </tr>
+                                    
+                                </tfoot>
+                            </table>
+                       
+
+                        </div>
+                    </div>
+                </div>
+                
+            </div>
+
+        </div>
+        <div class="footer-wrapper">
+            <div class="footer-section f-section-1">
+                <p class="">Copyright © 2020 <a target="_blank" href="https://designreset.com">TRADR AI</a>, All rights
+                    reserved.</p>
+            </div>
+            <div class="footer-section f-section-2">
+                <p class="">Coded with <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24"
+                        viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"
+                        stroke-linejoin="round" class="feather feather-heart">
+                        <path
+                            d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z">
+                        </path>
+                    </svg></p>
+            </div>
+        </div>
+    </div>
+
+    <!--  END CONTENT AREA  -->
+
+
+    <!-- END MAIN CONTAINER -->
+
+
+
+    <!-- BEGIN GLOBAL MANDATORY SCRIPTS -->
+    <script src="assets/js/libs/jquery-3.1.1.min.js"></script>
+    <script src="bootstrap/js/popper.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="plugins/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+    <script src="assets/js/app.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            App.init();
+        });
+    </script>
+    <script src="assets/js/custom.js"></script>
+    <!-- END GLOBAL MANDATORY SCRIPTS -->
+
+    <!-- BEGIN PAGE LEVEL SCRIPTS -->
+    <script src="plugins/table/datatable/datatables.js"></script>
+    <script>
+        $(document).ready(function () {
+            $('table.multi-table').DataTable({
+                "oLanguage": {
+                    "oPaginate": { "sPrevious": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-left"><line x1="19" y1="12" x2="5" y2="12"></line><polyline points="12 19 5 12 12 5"></polyline></svg>', "sNext": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg>' },
+                    "sInfo": "Showing page _PAGE_ of _PAGES_",
+                    "sSearch": '<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-search"><circle cx="11" cy="11" r="8"></circle><line x1="21" y1="21" x2="16.65" y2="16.65"></line></svg>',
+                    "sSearchPlaceholder": "Search...",
+                    "sLengthMenu": "Results :  _MENU_",
+                },
+                "stripeClasses": [],
+                "lengthMenu": [7, 10, 20, 50],
+                "pageLength": 50,
+                drawCallback: function () {
+                    $('.t-dot').tooltip({ template: '<div class="tooltip status"  role="tooltip"><div class="arrow"></div><div class="tooltip-inner"></div></div>' })
+                    $('.dataTables_wrapper table').removeClass('table-striped');
+                }
+            });
+        });
+    </script>
+    <!-- END PAGE LEVEL SCRIPTS -->
+    <script src="assets/js/main.js"></script>
+</body>
+
+</html>
