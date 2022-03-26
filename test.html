@@ -1,0 +1,30 @@
+<html>
+   <head>
+      <title>change picture</title>
+      <script type = "text/javascript">
+          function displayNextImage() {
+              x = (x === images.length - 1) ? 0 : x + 1;
+              document.getElementById("img").src = images[x];
+          }
+
+          function displayPreviousImage() {
+              x = (x <= 0) ? images.length - 1 : x - 1;
+              document.getElementById("img").src = images[x];
+          }
+
+          function startTimer() {
+              setInterval(displayNextImage, 3000);
+          }
+
+          var images = [], x = -1;
+          images[0] = "https://tradr.co.in/assets/img/video-image.jpg";
+          images[1] = "https://tradr.co.in/assets/img/video-image1.jpg";
+          images[2] = "https://tradr.co.in/assets/img/how-it-works-image2.png";
+      </script>
+   </head>
+
+   <body onload = "startTimer()">
+       <img id="img" src="https://tradr.co.in/assets/img/how-it-works-image2.png"/>
+       
+   </body>
+</html>

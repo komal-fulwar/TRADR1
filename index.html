@@ -34,10 +34,13 @@
     <style>
         .dark-bg {
   background-color: #10102d; }
+
+
+
     </style>
 </head>
 
-<body>
+<body onload = "startTimer()" >
 
     <nav class=" navbar navbar-area navbar-expand-lg nav-absolute white nav-style-01"
         style=" position: fixed;  background-color:#030346; ">
@@ -45,7 +48,8 @@
             <div class="responsive-mobile-menu">
                 <div class="logo-wrapper">
                     <a href="index.html" class="logo">
-                        <img src="assets/img/logo.gif" alt="logo">
+                        <img src="assets/img/logo.gif" class="web"alt="logo" style="max-width: 50%;">
+                        <img src="assets/img/logo.gif" class="mobile" alt="logo" style="max-width: 100%;">
                     </a>
                 </div>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#appside_main_menu"
@@ -755,9 +759,82 @@
         </div>
     </section>
     <!-- screenshort area end -->
+ 
+
+    <section class="py-20 overflow-hidden"style="background-color: #10102d;" >
+        <div class="container">
+          <div class="mw-xl mx-auto mb-12 text-center">
+            <div class="section-title white">
+                <!-- section title -->
+                <span class="subtitle"></span>
+                <h3 class="title extra">Our Gallery
+                </h3>
+                <!-- <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor tempor
+                    incididunt ut labore dolore magna.</p> -->
+            </div>
+          </div>
+          <div class="mw-xl mx-auto mb-8 mb-lg-16 d-flex flex-wrap justify-content-between">
+            <!-- <button class="btn border-0 px-8 pb-4 col-12 col-md-auto border-2  border-bottom fw-bold text-primary"   data-config-id="05_link1">Office</button>
+            <button class="btn border-0 px-8 pb-4 col-12 col-md-auto text-primary" data-config-id="05_link2">Class</button>
+            <button class="btn border-0 px-8 pb-4 col-12 col-md-auto text-primary" data-config-id="05_link3">Trading Floor</button> -->
+
+          </div>
+          
+          <div class="row mb-10 mb-lg-16">
+              
+            <div class="col-12 col-lg-6 p-4">
+              <div class="row mb-n4">
+               
+                <div class="col-12 col-lg-6 p-4" >
+                     <img class="img-fluid w-100"  id="img1"  style="height: 255px; object-fit: cover;" src="assets/img/office_1.JPG" alt="" data-config-id="05_image1">
+                </div>
+                <div class="col-12 col-lg-6 p-4" >
+                  <img class="img-fluid w-100" style="height: 255px; object-fit: cover;" src="assets/img/gallery_1.png" alt="" data-config-id="05_image2">
+                </div>
+                <div class="col-12 p-4">
+                  <div class="position-relative">
+                
+                    <img class="img-fluid w-100" style="height: 510px; object-fit: cover;" src="assets/img/galley_2.png" alt="" data-config-id="05_image3">
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div class="col-12 col-lg-6 p-4">
+              <div class="row mb-n4">
+                <div class="col-12 p-4">
+                  <div class="position-relative">
+
+                    <img class="img-fluid w-100"  id="img" style="height: 510px; object-fit: cover;" src="assets/img/gallery_3.png" alt="" data-config-id="05_image4">
+                  </div>
+                </div>
+                <div class="col-12 col-lg-6 p-4">
+                  <img class="img-fluid w-100" style="height: 255px; object-fit: cover;" src="assets/img/gallery_4.png" alt="" data-config-id="05_image5">
+                </div>
+                <div class="col-12 col-lg-6 p-4">
+                  <img class="img-fluid w-100" style="height: 255px; object-fit: cover;" src="assets/img/gallery_5.png" alt="" data-config-id="05_image6">
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
 
 
 
+      <section class="pt-0" style="background-color: #10102d;">
+        <div class="container position-relative text-center">
+          <div class="mw-4xl mx-auto mb-16 text-center">
+        
+            <h2 class=" mb-4 text-white" data-config-id="header">Now We are ISO Certified</h2>
+    
+            
+          </div>
+          <div class="mw-xl mt-6 mx-auto">
+            <img class="img-fluid" src="https://www.isocertificateonline.in/wp-content/uploads/2018/10/ISO-e1538996534469.png" width="270" height="270" alt="" data-config-id="image">
+          </div>
+        </div>
+      </section>
     <!-- price plan area start -->
     <section class="pricing-plan-area dark-bg " id="pricing">
         <div class="container">
@@ -776,9 +853,9 @@
                 <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
 
                     <div class="carousel-inner">
-                        <div class="carousel-item active">
+                        <div class="carousel-item active " > 
 
-                            <div class="col-md-4 " style="float:left">
+                            <div class="col-md-4 " style="float:left" >
                                 <div class="card mb-2 newcard">
                                     <img class="card-img-top" src="assets/img/project-slider-imgs-1.jpg"
                                         alt="Card image cap">
@@ -1031,6 +1108,7 @@
     </section>
     <!-- price plan area end -->
 
+   
     <!-- team member area start -->
     <section class="team-member-area dark-bg" id="team">
         <div class="bg-shape-1">
@@ -1039,7 +1117,7 @@
         <div class="bg-shape-2">
             <img src="assets/img/bg/contact-map-bg-dark.png" alt="">
         </div>
-        <div class="bg-shape-3 fadeInLeft wow">
+        <div class="bg-shape-3 fadeInLeft wow" style="z-index: -1;">
             <img src="assets/img/bg/contact-mobile-bg.png" alt="">
         </div>
         <div class="container">
@@ -1136,6 +1214,46 @@
                     </div><!-- //. team carousel -->
                 </div>
             </div>
+            <section class="py-10" style="background-color: #10102d;">
+                <div class="container mb-32">
+                    <div class="section-title white">
+                        <!-- section title -->
+                        <span class="subtitle">Get In Touch</span>
+                        <h3 class="title">Visit Our Office</h3>
+                        <!-- <p>Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolor tempor
+                            incididunt ut labore dolore magna.</p> -->
+                    </div><!-- //. section title -->
+                  <div class="row">
+                    <div class="col-12 col-md-4 text-center mb-8 mb-md-0">
+                      <svg class="mx-auto mb-4" width="38" height="38" viewbox="0 0 38 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M13 5L1 1V33L13 37M13 5L25 1M13 5V37M25 1L37 5V37L25 33M25 1V33M25 33L13 37" stroke="#500ade" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                      </svg>
+                      <h6 class="mb-2 text-white" data-config-id="header1 text-white">Visit Us</h6>
+                      <p class="mb-1" data-config-id="desc1"> Plot . No. 6 Koradi Road , Byramji Town , Jaripatka , Nagpur</p>
+                     
+                    </div>
+                    <div class="col-12 col-md-4 text-center mb-8 mb-md-0">
+                      <svg class="mx-auto mb-4" width="48" height="48" viewbox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M7 11L21.1716 25.1716C22.7337 26.7337 25.2663 26.7337 26.8284 25.1716L41 11M8 38H40C41.1046 38 42 37.1046 42 36V12C42 10.8954 41.1046 10 40 10H8C6.89543 10 6 10.8954 6 12V36C6 37.1046 6.89543 38 8 38Z" stroke="#500ade" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                      </svg>
+                      <h6 class="mb-2 text-white" data-config-id="header2">Send us message</h6>
+                      <p class="mb-0" data-config-id="desc2">tradrofficial@gmail.com</p>
+                    </div>
+                    <div class="col-12 col-md-4 text-center">
+                      <svg class="mx-auto mb-4" width="48" height="48" viewbox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M41.9988 32.9533V38.3729C42.0073 40.4446 40.1445 42.1746 38.0528 41.9859C20.0001 42 6.00006 27.87 6.01419 9.93837C5.82581 7.85789 7.54721 6.00212 9.61628 6.00018H15.0466C15.925 5.99155 16.7766 6.302 17.4427 6.87368C19.3363 8.49899 20.5543 14.0155 20.0857 16.2086C19.7198 17.9207 17.9939 19.1186 16.8204 20.2897C19.3972 24.8124 23.1494 28.5571 27.681 31.1288C28.8544 29.9577 30.0547 28.2351 31.7702 27.87C33.971 27.4016 39.523 28.6213 41.1418 30.5281C41.7159 31.2042 42.0209 32.0674 41.9988 32.9533Z" stroke="#500ade" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                      </svg>
+                      <h6 class="mb-2 text-white" data-config-id="header3">Call Us</h6>
+                      <p class="mb-0" data-config-id="desc3">+09112129992</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="position-relative" style="height:350px; width: 100%; ">
+        
+                    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d14881.891018142738!2d79.0808461!3d21.1733708!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x60da8b213b90e264!2sTradr%20-%20Trading%20Floor%2C%20Stock%20Market%20Training%20%26%20Educational%20Institute!5e0!3m2!1sen!2sin!4v1648283921384!5m2!1sen!2sin" width="100%" height="350" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                </div>
+        
+              </section>
             <div class="row" id="download-app">
                 <div class="col-lg-12">
                     <div class="download-area-wrapper white margin-top-120">
@@ -1285,6 +1403,28 @@
         <i class="fas fa-angle-up"></i>
     </div>
     <!-- back to top area end -->
+    <!-- <script type = "text/javascript">
+        function displayNextImage() {
+            x = (x === images.length - 1) ? 0 : x + 1;
+            document.getElementById("img").src = images[x];
+        }
+
+       
+        function startTimer() {
+            setInterval(displayNextImage, 2000);
+        }
+
+        var images = [], x = -1;
+        images[0] = "https://tradr.co.in/assets/img/video-image.jpg";
+        images[1] = "https://tradr.co.in/assets/img/video-image1.jpg";
+        images[2] = "https://tradr.co.in/assets/img/how-it-works-image2.png";
+       
+
+        
+    </script> -->
+  
+ 
+
 
     <!-- jquery -->
     <script src="assets/js/jquery.js"></script>
