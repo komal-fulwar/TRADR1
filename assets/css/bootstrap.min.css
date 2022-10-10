@@ -5729,8 +5729,7 @@ fieldset:disabled .btn {
   margin-bottom: 0;
 }
 .accordion-item {
-  background-color: #fff;
-  border: 1px solid rgba(0, 0, 0, 0.125);
+  
 }
 .accordion-item:not(:first-of-type) {
   border-top: 0;
